@@ -1,0 +1,40 @@
+body
+{
+  color: white;
+  background: #ffecc0;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name1 
+{
+  color: black;
+  font-size: 40px;
+}
+#gesture1
+{
+  font-size:48px;
+}
+
+.heading {
+  letter-spacing: 8px;
+  font-size: 24px;
+  border-radius: 15px;
+}
+
+label {
+  color: black;
+  font-size: 20px;
+  background-color: rgb(90, 253, 128);
+}
+
+p {
+  color: black;
+}
